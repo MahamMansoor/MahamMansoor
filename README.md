@@ -39,7 +39,7 @@ Multimodal AI, Large Language Models, and Natural Language Processing.
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
 - Machine Learning and Deep Learning
 - Computer Vision and Image Understanding
@@ -53,7 +53,7 @@ Multimodal AI, Large Language Models, and Natural Language Processing.
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Programming Languages
 
