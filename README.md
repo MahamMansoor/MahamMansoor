@@ -1,292 +1,107 @@
-<h1 align="center">Hi 👋, I'm Maham Mansoor</h1>
 
-<h3 align="center">
-  AI/ML Engineer | Undergraduate Researcher | Multimodal AI & Computer Vision
-</h3>
+# Hi, I'm Maham Mansoor
 
-<p align="center">
-  Exploring intelligent systems through Machine Learning, Deep Learning,
-  Computer Vision, and Large Language Models.
-</p>
+### AI/ML Engineer | Undergraduate Researcher
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mansoormaham26@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+I'm an Artificial Intelligence undergraduate at PAF-IAST, Pakistan, with experience in machine learning, deep learning, computer vision, and multimodal AI research.
 
----
-
-## 👩‍💻 About Me
-
-I'm an AI undergraduate and AI/ML engineer interested in building
-intelligent, research-driven solutions to real-world problems.
-
-My work and research interests span Machine Learning, Computer Vision,
-Multimodal AI, Large Language Models, and Natural Language Processing.
-
-- 🎓 Pursuing a BS (Honours) in Artificial Intelligence at PAF-IAST.
-- 🔬 Undergraduate Research Collaborator at the ADAPT Centre,
-  Maynooth University, Ireland.
-- 🤖 Interested in multimodal foundation models and deep learning.
-- 🧠 Exploring Retrieval-Augmented Generation (RAG), LLMs, and
-  parameter-efficient fine-tuning.
-- 🌍 Interested in AI-powered assistive technologies and accessibility.
-- 📚 Continuously learning, researching, and developing AI solutions.
-
----
+I work on building AI-driven solutions, exploring vision-language models, and developing research-oriented projects across computer vision, natural language processing, and large language models.
 
 ## Research Interests
 
 - Machine Learning and Deep Learning
-- Computer Vision and Image Understanding
-- Multimodal Artificial Intelligence
-- Vision-Language Models (VLMs)
-- Large Language Models (LLMs)
-- Natural Language Processing (NLP)
-- Retrieval-Augmented Generation (RAG)
-- AI-Based Assistive Technologies
-- Deepfake Detection and AI Security
+- Computer Vision and Deepfake Detection
+- Multimodal AI and Vision-Language Models
+- Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG)
+- Natural Language Processing and Machine Translation
+- AI for Assistive Technology
 
----
+## Technical Skills
 
-##  Technical Skills
+**Languages:** Python, C++, C#, SQL
 
-### Programming Languages
+**Machine Learning & Deep Learning:** PyTorch, TensorFlow, CNNs, RNNs, Transformers
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C Sharp"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL"/>
-</p>
+**Computer Vision:** OpenCV, CLIP, BLIP-2, Image Analysis
 
-### Machine Learning & Deep Learning
+**LLMs & NLP:** Hugging Face Transformers, BERT, FAISS, RAG, LoRA/QLoRA
 
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-</p>
+**Tools:** Git, GitHub, GitLab, Linux, Jupyter Notebook, Google Colab
 
-- CNN and RNN architectures
-- Transformer architectures
-- Model fine-tuning and evaluation
-- Performance metrics and experimental analysis
-
-### Multimodal AI & LLMs
-
-- CLIP and BLIP-2
-- Vision-Language Models
-- Retrieval-Augmented Generation (RAG)
-- BERT embeddings and FAISS vector search
-- LoRA and QLoRA fine-tuning
-- Hugging Face Transformers
-
-### Tools & Development
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black" alt="Google Colab"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
-</p>
-
-Additional tools: Kaggle GPU, VS Code, LaTeX, and GitLab.
-
----
-
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 1. AI Research Gap Finder
+A retrieval-augmented generation system that uses BERT embeddings, FAISS vector search, and an LLM reasoning layer to identify potential research gaps in academic literature.
 
-A Retrieval-Augmented Generation (RAG) system designed to identify
-potential research gaps in academic literature.
-
-**Key technologies:**
-BERT Embeddings, FAISS, RAG, and Large Language Models.
-
-**Highlights:**
-- Semantic retrieval of relevant academic literature.
-- Vector-based similarity search.
-- LLM-assisted research gap identification.
-- Interactive query interface.
+- **Technologies:** Python, BERT, FAISS, RAG, LLMs
+- **Repository:** [Add Project Link](#)
 
 ### 2. Bidirectional Arabic–English Neural Machine Translation
+A neural machine translation project using MarianMT and QLoRA fine-tuning, with a gated morphological injection framework to improve translation performance.
 
-A neural machine translation research project exploring morphological
-information in Arabic–English translation.
-
-**Key technologies:**
-MarianMT, QLoRA, OPUS-100, and Natural Language Processing.
-
-**Highlights:**
-- Fine-tuning on 100K sentence pairs.
-- Gated morphological injection framework.
-- Reported improvement of up to 4.15 BLEU over the baseline.
+- **Technologies:** Python, MarianMT, QLoRA, NLP
+- **Repository:** [Add Project Link](#)
 
 ### 3. AI Gaze Estimation System
+A real-time gaze-tracking application with heatmap visualization to analyze user attention, with potential accessibility applications.
 
-A real-time eye and gaze tracking application designed to visualize
-user attention through heatmaps.
+- **Technologies:** Python, Computer Vision, Deep Learning
+- **Repository:** [Add Project Link](#)
 
-**Key technologies:**
-Artificial Neural Networks, Computer Vision, and Web Technologies.
+### 4. Robust Deepfake Detection
+Research on evaluating multimodal foundation models for deepfake detection, with ongoing work exploring adversarial robustness.
 
-**Highlights:**
-- Real-time gaze estimation.
-- Visual representation of attention.
-- Exploration of accessibility-focused applications.
+- **Technologies:** Python, PyTorch, CLIP, BLIP-2
+- **Repository:** [Add Project Link](#)
 
-### 4. Deepfake Detection Using Multimodal Foundation Models
+### 5. AI-Based Assistive Technology
+An ongoing project focused on developing AI-powered solutions to support people with disabilities.
 
-Research on evaluating multimodal foundation models for detecting
-synthetic and manipulated images.
+- **Technologies:** AI/ML, Assistive Technology
+- **Repository:** [Add Project Link](#)
 
-**Key technologies:**
-CLIP, BLIP-2, Computer Vision, and Multimodal AI.
+### 6. Automatic Target Recognition and Drone Imagery Analysis
+An applied AI project involving computer vision, drone imagery processing, target recognition, and GPS-based tracking.
 
-**Highlights:**
-- Contribution to the MMFB-26 forensic image benchmark.
-- Evaluation of zero-shot and fine-tuned models.
-- Investigation of model performance across different image categories.
+- **Technologies:** Python, CNNs, RNNs, Computer Vision
+- **Repository:** [Add Project Link](#)
 
-### 5. Robust Deepfake Detection Under Adversarial Perturbations
-
-An ongoing research extension investigating deepfake detection under
-adversarial threat scenarios.
-
-**Focus areas:**
-- Model robustness.
-- Adversarial evaluation.
-- Reliability of deepfake detection systems.
-
-### 6. AI-Based Assistive Technology
-
-An ongoing initiative focused on developing AI solutions to support
-users with disabilities.
-
-**Focus areas:**
-- Accessibility-oriented AI applications.
-- Intelligent assistive systems.
-- Exploration of virtual-reality integration.
-
----
-
-## 🔬 Research & Publications
+## Research & Publications
 
 **Benchmarking Foundation Models for Deepfake Detection**
 
-- Status: Under review at IEEE Access (2026).
-- Role: Third author.
-- Research collaboration: ADAPT Centre, Maynooth University, Ireland.
-- Focus: Benchmarking multimodal foundation models for deepfake detection.
+Co-author of a research manuscript under review at IEEE Access (2026), involving multimodal foundation-model evaluation and the MMFB-26 forensic image benchmark.
 
-Research contributions include work on the MMFB-26 forensic image
-benchmark and evaluation of CLIP ViT-B/32 and BLIP-2.
+- **Paper / Preprint:** [Add Link If Publicly Available](#)
 
-*Research findings, manuscripts, and associated code will be linked
-here when publicly available and permitted for release.*
+## Experience & Leadership
 
----
+- Undergraduate Research Collaborator — ADAPT Centre, Maynooth University
+- Machine Learning Engineer Intern — Qaswa Industries
+- AI & ML Intern — Glaxit
+- Machine Learning Intern — Arch Technologies
+- AI/ML Co-Lead — Google Developer Group (GDG)
+- AI Training Facilitator — Sir Syed Schools and Colleges
 
-## 💼 Experience
-
-**Undergraduate Research Collaborator — ADAPT Centre**
-*Maynooth University, Ireland | 2025–Present*
-
-- Contributing to research involving vision-language models.
-- Working on multimodal foundation-model evaluation and deepfake detection.
-
-**Machine Learning Engineer Intern — Qaswa Industries**
-*July 2025 – September 2025*
-
-- Worked on computer vision applications involving drone imagery.
-- Contributed to automatic target recognition and GPS-based tracking.
-- Explored CNN/RNN-based methods and LLM applications.
-
-**AI & ML Intern — Glaxit**
-*June 2025 – August 2025*
-
-**Machine Learning Intern — Arch Technologies**
-*May 2025*
-
-**AI Training Facilitator — Sir Syed Schools and Colleges**
-*2024–Present*
-
-- Supporting AI education and introductory machine learning learning activities.
-
----
-
-## 🏆 Achievements & Leadership
-
-- 🥇 Rector's List of Honor (2025) — 1st position in batch.
-- 🥇 Dean's List of Honor (2024) — 1st position in class.
-- 🏆 Achieved a 4.0 SGPA in two consecutive semesters.
-- 🥈 Second Prize — IT Tech Competition, Tech Jam, PAF-IAST.
-- 🤝 AI/ML Co-Lead — Google Developer Group (GDG).
-- 📚 Volunteer AI Instructor — delivering introductory AI sessions.
-
----
-
-## 📜 Certifications
+## Certifications
 
 - AI Fundamentals — DataCamp
 - AI Engineer for Data Scientists Associate — DataCamp
 - How to Develop an AI Agent — Hands-On Workshop
 - Learn Python — Scrimba
 
----
+## Achievements
 
-## 📊 GitHub Statistics
+- Rector's List of Honor (2025)
+- Dean's List of Honor (2024)
+- 2nd Prize — IT Tech Competition, Tech Jam, PAF-IAST
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true"
-    alt="GitHub Statistics"
-  />
-</p>
+## Connect With Me
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"
-    alt="Most Used Languages"
-  />
-</p>
+- **LinkedIn:** [Add LinkedIn URL](#)
+- **Email:** mansoormaham26@gmail.com
+- **Portfolio:** [Add Portfolio URL If Available](#)
 
 ---
 
-## 🤝 Let's Connect
-
-I'm interested in AI/ML research, collaborative projects, and opportunities
-to develop intelligent systems that solve meaningful problems.
-
-- **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
-- **Email:** [mansoormaham26@gmail.com](mailto:mansoormaham26@gmail.com)
-- **GitHub:** [Explore my repositories](https://github.com/YOUR_GITHUB_USERNAME)
-
----
-
-<p align="center">
-  <i>Building intelligent systems, exploring research, and learning continuously.</i>
-</p>## Hi there 👋
-
-<!--
-**MahamMansoor/MahamMansoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Interested in building practical AI solutions and contributing to impactful AI research.*
